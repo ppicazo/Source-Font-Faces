@@ -4,3 +4,6 @@
 [submodule "SourceSansPro"]
 	path = SourceSansPro
 	url = https://github.com/adobe/source-sans-pro.git
+[submodule "css3FontConverter"]
+	path = css3FontConverter
+	url = git@github.com:ppicazo/css3FontConverter.git

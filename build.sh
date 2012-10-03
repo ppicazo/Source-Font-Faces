@@ -16,6 +16,6 @@ do
 done
 
 cd $thisDir/target
-convertFonts.sh *.ttf
+$thisDir/css3FontConverter/convertFonts.sh *.ttf
 rm old
 mv stylesheet.css fonts.css
