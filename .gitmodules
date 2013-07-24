@@ -1,6 +1,6 @@
 [submodule "SourceCodePro"]
 	path = SourceCodePro
-	url = https://github.com/adobe/Source-Code-Pro.git
+	url = https://github.com/adobe/source-code-pro.git
 [submodule "SourceSansPro"]
 	path = SourceSansPro
 	url = https://github.com/adobe/source-sans-pro.git
